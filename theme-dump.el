@@ -3,7 +3,7 @@
 ;; Author: Topi Kettunen <topi@topikettunen.com>
 ;; URL: https://github.com/topikettunen/tok-theme
 ;; Version: 0.1
-;; Package-Requires: ((emacs "26.1") (f "1.0"))
+;; Package-Requires: ((emacs "26.1") (f "0.20.0"))
 
 ;; This is free and unencumbered software released into the public domain.
 ;; 
