@@ -1,7 +1,7 @@
 ;;; theme-dump.el --- Simple tool written for aspiring theme developers -*- lexical-binding: t; -*-
 
 ;; Author: Topi Kettunen <topi@topikettunen.com>
-;; URL: https://github.com/topikettunen/tok-theme
+;; URL: https://github.com/topikettunen/theme-dump
 ;; Version: 0.1
 ;; Package-Requires: ((emacs "26.1") (f "0.20.0"))
 
